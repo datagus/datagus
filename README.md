@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+🔭 I am currently working as a scientific data analyst
+
+💌 I love Python and data.
+
+👨‍🏫 Teaching at Leuphana University.
+
 <!--
 **datagus/datagus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
