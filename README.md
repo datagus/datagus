@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I am currently working as a scientific data analyst
+🔭 I am currently working as a scientific data analyst and teaching at Leuphana University.
 
 💌 I love Python and data.
 
@@ -36,8 +36,6 @@ In my role as a **Teacher in Higher Education**, I have taught various courses r
 - **Consulting**: Sustainable fashion strategies, supply chain analysis, and sustainable material sourcing.
 
 ---
-
-👨‍🏫 Currently teaching at Leuphana University.
 
 ## 🌐 **Connect with Me**
 [LinkedIn](www.linkedin.com/in/jorge-gustavo-rodríguez-aboytes-098849b4) | [Youtube Channel](https://www.youtube.com/@datagus)
