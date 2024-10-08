@@ -32,7 +32,7 @@ In my role as a **Teacher in Higher Education**, I have taught various courses r
 - **Data Science**: Machine learning, data analysis, and AI applications in sustainability.
 - **Chemical Engineering**: Engineering processes, environmental impact assessments, and sustainable practices in industry.
 - **Environmental Sciences**: Climate change mitigation, environmental system analysis, and policy development.
-- **Education & Curriculum Development**: Higher education teaching and curriculum design focused on sustainability and data science.
+- **Education & Curriculum Development**: Higher education teaching and curriculum design focused on sustainability education.
 - **Consulting**: Sustainable fashion strategies, supply chain analysis, and sustainable material sourcing.
 
 ---
